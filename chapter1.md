@@ -39,3 +39,4 @@ Customers who baught more than 100 dollar:
         ),
         [SumOfSales] > 100
         )
+here SumOfSales is measure reference
