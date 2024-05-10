@@ -1,7 +1,7 @@
-Column reference#
+Column reference
 
     Sales[Quantity] * 2
 
-Measure reference#
+Measure reference
 
     [SalesAmount] * 2
